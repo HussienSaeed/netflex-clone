@@ -28,7 +28,7 @@ const NavBar =()=>{
              <Flex justifyContent={'space-between'}>
               <Link to="/">
                 <Box  fontSize={"2xl"} fontWeight={"bold"} color={"red"} letterSpacing={"widest"} fontFamily={"mono"} >
-                    NETFLEX
+                    NETFLIX
                 </Box>
               </Link>
               {/* DESCTOP */}
